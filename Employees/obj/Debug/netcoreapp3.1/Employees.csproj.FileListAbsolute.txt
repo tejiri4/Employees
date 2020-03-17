@@ -6,3 +6,11 @@ C:\Users\Administrator\source\repos\Employees\Employees\obj\Debug\netcoreapp3.1\
 C:\Users\Administrator\source\repos\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfo.cs
 C:\Users\Administrator\source\repos\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.dll
 C:\Users\Administrator\source\repos\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.deps.json
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.dll
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.pdb
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.AssemblyInfo.cs
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.dll
+C:\Users\Administrator\Documents\technobrain\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.pdb
