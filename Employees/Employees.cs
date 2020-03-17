@@ -12,7 +12,7 @@ namespace EmployeeApp
 
 
 
-        public Employee(String csv)
+        public Employee(String csv) 
         {
             String[] rows = csv.Split(" ");
             Employees = new List<string>();
@@ -35,9 +35,14 @@ namespace EmployeeApp
 
                 // validate all salaries in CSV are valid integer
                 validateSalary();
+
                 // validate one employee does not report to more than one manager
                 ValidateEmployee();
+
+                // validate if only one manager exist
                 ValidateOnlyOneManager();
+
+                // check for circular reference
                 ValidateNoCicularRef();
             }
             else

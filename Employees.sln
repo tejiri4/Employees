@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employees", "Employees\Employees.csproj", "{723317D4-4025-4527-83A8-742ADCA556AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employees", "Employees\Employees.csproj", "{723317D4-4025-4527-83A8-742ADCA556AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeesTest", "EmployeesTest\EmployeesTest.csproj", "{2A649899-101C-48B7-9117-00CF589A9C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeesTest", "EmployeesTest\EmployeesTest.csproj", "{2A649899-101C-48B7-9117-00CF589A9C80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

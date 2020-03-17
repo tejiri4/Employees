@@ -1,7 +1,4 @@
-C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.exe
 C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.deps.json
-C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.json
-C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.runtimeconfig.dev.json
 C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.dll
 C:\Users\Administrator\source\repos\Employees\Employees\bin\Debug\netcoreapp3.1\Employees.pdb
 C:\Users\Administrator\source\repos\Employees\Employees\obj\Debug\netcoreapp3.1\Employees.csprojAssemblyReference.cache
